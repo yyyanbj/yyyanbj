@@ -7,7 +7,7 @@
     <a href="https://blog.bj-yan.top/">blog</a> ∙
     <a href="https://nav.bj-yan.top/">nav</a> ∙
     <a href="https://www.bj-yan.top/pdf/cv_en.pdf">cv</a> ∙ 
-    <a href="https://github.com/beiyuouo">github</a> ∙ 
+    <a href="https://github.com/yyyanbj">github</a> ∙ 
     <a href="https://space.bilibili.com/23511429">bili</a> ∙ 
     <a href="https://www.zhihu.com/people/bei-yu-84-25">zhihu</a> ∙ 
     <a href="https://www.linkedin.com/in/bingjie-yan-ba968118b/">linkedin</a>
@@ -24,8 +24,8 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I’m a postgraduate student [**@ICT.CAS**](http://www.ict.cas.cn/).
-- 🌱 My current research interests focus on federated learning, edge computing, and distributed systems [>more](https://www.bj-yan.top).
+- 🔭 I’m a PhD student [**@PolyU**](https://www.polyu.edu.hk/so/people/research-students/mr-bingjie-yan/).
+- 🌱 My current research interests focus on medical agent [>more](https://www.bj-yan.top).
 - 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
 - 🎨 I am glad to share and communicate with you.
 - ❤️ Wechat: bingjie0130 :)
