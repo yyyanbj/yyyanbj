@@ -1,0 +1,30 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bingjie Yan profile banner</title>
+  <desc id="desc">A dark blue and purple banner introducing Bingjie Yan, a PhD student and medical AI researcher.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#172554"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="180" y1="30" x2="940" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <circle cx="1030" cy="30" r="145" fill="#7C3AED" opacity="0.3" filter="url(#blur)"/>
+  <circle cx="190" cy="290" r="150" fill="#06B6D4" opacity="0.2" filter="url(#blur)"/>
+  <path d="M0 235C180 175 305 275 475 212C645 149 742 184 890 120C1015 66 1101 77 1200 45" stroke="url(#glow)" stroke-width="2" opacity="0.65"/>
+  <path d="M0 252C180 192 305 292 475 229C645 166 742 201 890 137C1015 83 1101 94 1200 62" stroke="url(#glow)" stroke-width="1" opacity="0.3"/>
+  <g fill="#C4B5FD" opacity="0.8">
+    <circle cx="1010" cy="92" r="2"/><circle cx="1080" cy="150" r="1.5"/><circle cx="940" cy="48" r="1.5"/>
+    <circle cx="1125" cy="215" r="2"/><circle cx="870" cy="80" r="1.5"/><circle cx="760" cy="52" r="1"/>
+  </g>
+  <text x="86" y="116" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Bingjie Yan</text>
+  <text x="88" y="158" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="19">PhD student · Medical AI researcher · Builder</text>
+  <text x="88" y="204" fill="#E0E7FF" font-family="Arial, Helvetica, sans-serif" font-size="16">Exploring intelligent agents for healthcare and beyond.</text>
+  <rect x="88" y="232" width="124" height="34" rx="17" fill="#E0E7FF" fill-opacity="0.12" stroke="#A5B4FC" stroke-opacity="0.55"/>
+  <text x="150" y="254" text-anchor="middle" fill="#E0E7FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">HELLO, WORLD</text>
+</svg>

@@ -1,5 +1,9 @@
 <h3 align="center"> Bingjie YAN / 闫冰洁 </h3>
 
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Bingjie Yan - PhD student and medical AI researcher" width="100%" />
+</p>
+
 
 <p align="center">
   <samp>
