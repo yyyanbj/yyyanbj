@@ -1,4 +1,4 @@
-<h3 align="center"> Bingjie YAN / 闫冰洁 </h3>
+<h3 align="center"> Bingjie YAN </h3>
 
 <h4 align="center">GitHub Statistics & Open Source Activity</h4>
 
