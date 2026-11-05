@@ -5,7 +5,7 @@
   <samp>
     <a href="https://www.bj-yan.top/">homepage</a> ∙
     <a href="https://blog.bj-yan.top/">blog</a> ∙
-    <a href="https://nav.bj-yan.top/">nav</a> ∙
+    <!-- <a href="https://nav.bj-yan.top/">nav</a> ∙ -->
     <a href="https://www.bj-yan.top/pdf/cv_en.pdf">cv</a> ∙ 
     <a href="https://github.com/yyyanbj">github</a> ∙ 
     <a href="https://space.bilibili.com/23511429">bili</a> ∙ 
@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yyyanbj&show_icons=true&hide_border=true&theme=radical" width="50%">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=yyyanbj&show_icons=true&hide_border=true&theme=radical" width="50%"> -->
 
 
 #### Welcome to my GitHub profile!
@@ -26,7 +26,7 @@
 <!-- markdownlint-disable -->
 - 🔭 I’m a PhD student [**@PolyU**](https://www.polyu.edu.hk/so/people/research-students/mr-bingjie-yan/).
 - 🌱 My current research interests focus on medical agent [>more](https://www.bj-yan.top).
-- 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
+- 📫 You can reach me at [bj.yan.pa@gmail.com](mailto:bj.yan.pa@gmail.com).
 - 🎨 I am glad to share and communicate with you.
 - ❤️ Wechat: bingjie0130 :)
 <!--
