@@ -1,9 +1,15 @@
 <h3 align="center"> Bingjie YAN / 闫冰洁 </h3>
 
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Bingjie Yan - PhD student and medical AI researcher" width="100%" />
-</p>
+<h4 align="center">GitHub Statistics & Open Source Activity</h4>
 
+<p align="center">
+  <a href="https://github.com/yyyanbj">
+    <img src="https://github-readme-stats.vercel.app/api?username=yyyanbj&show_icons=true&include_all_commits=true&count_private=true&rank=true&hide_border=true&theme=tokyonight" alt="Bingjie Yan's GitHub statistics" height="180" />
+  </a>
+  <a href="https://github.com/yyyanbj">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyanbj&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Bingjie Yan's most used languages" height="180" />
+  </a>
+</p>
 
 <p align="center">
   <samp>
@@ -18,11 +24,11 @@
   </samp>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yyyanbj&theme=tokyonight&hide_border=true" alt="Bingjie Yan's contribution streak" />
+</p>
 
 ---
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=yyyanbj&show_icons=true&hide_border=true&theme=radical" width="50%"> -->
-
 
 #### Welcome to my GitHub profile!
 <!-- languages:start -->
