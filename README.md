@@ -1,16 +1,5 @@
 <h3 align="center"> Bingjie YAN </h3>
 
-<h4 align="center">GitHub Statistics & Open Source Activity</h4>
-
-<p align="center">
-  <a href="https://github.com/yyyanbj">
-    <img src="https://github-readme-stats.vercel.app/api?username=yyyanbj&show_icons=true&include_all_commits=true&count_private=true&rank=true&hide_border=true&theme=tokyonight" alt="Bingjie Yan's GitHub statistics" height="180" />
-  </a>
-  <a href="https://github.com/yyyanbj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyanbj&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Bingjie Yan's most used languages" height="180" />
-  </a>
-</p>
-
 <p align="center">
   <samp>
     <a href="https://www.bj-yan.top/">homepage</a> ∙
@@ -22,10 +11,6 @@
     <a href="https://www.zhihu.com/people/bei-yu-84-25">zhihu</a> ∙ 
     <a href="https://www.linkedin.com/in/bingjie-yan-ba968118b/">linkedin</a>
   </samp>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yyyanbj&theme=tokyonight&hide_border=true" alt="Bingjie Yan's contribution streak" />
 </p>
 
 ---
